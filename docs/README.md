@@ -1,7 +1,7 @@
 
 
 ## Get repo ready
-1. mm
+1. git clone https://github.com/TassAbdul/Afri-Adapt.git
 2. cd ms-swift
 3. pip install -e .
 
@@ -36,7 +36,8 @@ for f in "$input_dir"/*.wav; do
     fi
 done
 ```
-
+# Lora Finetune
+1. 
 
 
 ## Acknowledgment
