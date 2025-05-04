@@ -1,9 +1,13 @@
 
 
 ## Get repo ready
+0. Python 3.10 or above is recommended
 1. git clone https://github.com/TassAbdul/Afri-Adapt.git
 2. cd Afri-Adapt
 3. pip install -e .
+4. pip uninstall transformers
+5. pip install git+https://github.com/huggingface/transformers
+6. pip install accelerate
 
 ## Prepare Train data
 
