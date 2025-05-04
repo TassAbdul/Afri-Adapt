@@ -42,7 +42,7 @@ done
 ```
 # Lora Finetune
 1. Make sure you have access to the model via Huggingface
-2. Run the code with GPU below: 
+2. Run the example transcribe fine-tuning code with GPU below: 
 ```bash
 CUDA_VISIBLE_DEVICES=0,1 \
 swift sft \
